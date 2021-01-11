@@ -1,4 +1,4 @@
-# Kidney_Segmentation
+# Kidney Segmentation
 The Kaggle Kidney Segmentation challenge.
 
 This is where I'll be keeping my early developments, notes, and research for the HuBMAP Kidney Challenge on Kaggle.
